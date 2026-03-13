@@ -1,6 +1,6 @@
-# Adya AI — LinkedIn Mention Scraper
+# Adya AI - LinkedIn Mention Scraper
 
-A React app that tracks official LinkedIn mentions of **Adya AI** and **Shayak Mazumder** from the last 6 months. It uses the Apify scraping API to search LinkedIn and filters results to only posts where someone used the official clickable company/profile tag — not just plain-text uses of the word "adya".
+A React app that tracks official LinkedIn mentions of **Adya AI** from the last 6 months. It uses the Apify scraping API to search LinkedIn and filters results to only posts where someone used the official clickable company/profile tag — not just plain-text uses of the word "adya".
 
 ---
 
@@ -8,7 +8,7 @@ A React app that tracks official LinkedIn mentions of **Adya AI** and **Shayak M
 
 1. Searches LinkedIn for the keyword `adya` via Apify
 2. Filters posts to the last 6 months
-3. Keeps only posts where the `contentAttributes` field contains an official tag linking to `linkedin.com/company/adyadotai` or `linkedin.com/in/smhaaz`
+3. Keeps only posts where the `contentAttributes` field contains an official tag linking to `linkedin.com/company/adyadotai`
 4. Displays matched posts with author info, engagement stats, and a direct link to the post
 
 ---
