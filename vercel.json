@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/LinkedIn_Scraper/(.*)", "destination": "/$1" }
+  ]
+}
