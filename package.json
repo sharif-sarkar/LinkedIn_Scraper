@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://sharif-sarkar.github.io/LinkedIn_Scarper/",
+  "homepage": "https://sharif-sarkar.github.io/LinkedIn_Scraper/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
